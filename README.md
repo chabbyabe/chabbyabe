@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abegail Isidro</h1>
+<h1 align="center">Hi 👋, I'm Abegail Sieffers - Isidro</h1>
 
 👩‍💻 I’m a full-stack developer with over five years of experience in software development.
 
@@ -46,5 +46,5 @@ Feel free to reach out if you have questions, collaboration opportunities, or ju
 ### 🌐 Connect with Me
 
 - 🐦 [Twitter](https://twitter.com/chabbyabe)
-- 💼 [LinkedIn](https://www.linkedin.com/in/abegail-isidro-816027112/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abegail-sieffers-isidro-816027112/)
 - 📸 [Instagram](https://instagram.com/chabbyabe)
